@@ -1,0 +1,7 @@
+C:\Users\XTS\Documents\SharpDevelop Projects\LatihanKelasPV\LatihanKelasPV\obj\Debug\LatihanKelasPV.csprojResolveAssemblyReference.cache
+C:\Users\XTS\Documents\SharpDevelop Projects\LatihanKelasPV\LatihanKelasPV\obj\Debug\LatihanKelasPV.MainForm.resources
+C:\Users\XTS\Documents\SharpDevelop Projects\LatihanKelasPV\LatihanKelasPV\obj\Debug\LatihanKelasPV.csproj.GenerateResource.Cache
+C:\Users\XTS\Documents\SharpDevelop Projects\LatihanKelasPV\LatihanKelasPV\bin\Debug\LatihanKelasPV.exe
+C:\Users\XTS\Documents\SharpDevelop Projects\LatihanKelasPV\LatihanKelasPV\bin\Debug\LatihanKelasPV.pdb
+C:\Users\XTS\Documents\SharpDevelop Projects\LatihanKelasPV\LatihanKelasPV\obj\Debug\LatihanKelasPV.exe
+C:\Users\XTS\Documents\SharpDevelop Projects\LatihanKelasPV\LatihanKelasPV\obj\Debug\LatihanKelasPV.pdb
